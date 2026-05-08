@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+
 # Power BI Desktop Version – Domino’s Analytics Project
 
 This folder contains the Power BI Desktop implementation of the Domino’s Analytics Project using the Kaggle `pizza_sales.csv` dataset.
